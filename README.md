@@ -18,8 +18,4 @@ The diagonal elements represent the number of images for which the predicted lab
 
 ![image](https://github.com/abhisheksaxena1998/Machine-Minds-Image-Classifier/assets/44598815/370ff104-a964-46ce-a5a1-c93056cee2de)
 
-### Team
 
-1. <a href="https://github.com/IshjotSingh97">Ishjot Singh</a>
-2. <a href="https://github.com/princegaur707">Prince Gaur</a>
-3. <a href="https://github.com/abhisheksaxena1998">Abhishek Saxena</a>
