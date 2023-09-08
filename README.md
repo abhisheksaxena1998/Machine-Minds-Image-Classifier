@@ -2,6 +2,12 @@
 
 ### This model is trained on an image dataset of size 14GB, for products sold on ecommerce websites.
 
+### Link to Frontend:
+https://github.com/abhisheksaxena1998/machine-minds-client
+
+### Link to Backend:
+[https://github.com/abhisheksaxena1998/Machine-Minds-Image-Classifier](https://github.com/abhisheksaxena1998/Machine-Minds-Backend)
+
 ![image](https://github.com/abhisheksaxena1998/Machine-Minds-Image-Classifier/assets/44598815/af5ef86a-b2de-481f-8f61-719c3f18884c)
 
 ### Learning Rate
